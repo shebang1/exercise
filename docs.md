@@ -1,4 +1,4 @@
-This documentation describes **how** to use the Barnes robotic toothbrush.
+This documentation describes **how** to use the Surreal robotic toothbrush.
 
 Note *that* this rubberband is **TOTALLY** safe to use for children and wild animals.
 
